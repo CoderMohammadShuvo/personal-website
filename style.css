@@ -1,0 +1,156 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+  
+h1{
+    font-size: 50px;
+}
+#name{
+    color: #FF8367;
+}
+.myimage{
+    height: 500px;
+}
+.half_width{
+    width: 40%;
+    float: left;
+    margin-left: 8%;
+    padding-left: 2%;
+}
+.topnav{
+    text-align: right;
+}
+.topnav a{
+    text-decoration: none;
+    color: #3C3C3C;
+    margin-right: 40px;
+
+}
+#about{
+    margin-top: 50px;
+}
+section{
+    height: 515px;
+}
+#first_button{
+    text-decoration: none;
+   
+    background-image: linear-gradient(orange, #FF8367);
+    padding: 10px 50px;
+    margin-top: 70px;
+    color: white;
+    border-radius: 10px;
+}
+#about_section{
+    padding-top: 100px;
+}
+.third_section{
+    background-color: #f8f9fc;
+    height: 700px;
+}
+#dummy_project{
+    height: 200px;
+}
+.work{
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.third_section img{
+    height: 150px;
+}
+.project{
+    width: 20%;
+    float: left;
+    
+    margin-left: 10%;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 5px gray;
+    border-radius: 10px;
+}
+#latest{
+    color: orange;
+}
+.last_half_width{
+    width: 50%;
+    float: left;
+    background-image: url(shapes/Group_33094_1.png);
+    
+    background-repeat: no-repeat;
+}
+#button{
+    margin-top: 100px;
+    padding: 15px 30px;
+    background-image: linear-gradient(orange, #FF8367);
+    border: none;
+    color: white;
+    border-radius: 8px;
+}
+#work_in{
+    margin-top: 90px;
+    font-size: 40px;
+    margin-left: 270px;
+}
+.lastsection{
+    height: 225px;
+    width: 906px;
+    margin-left: 267px;
+    padding-top: 200px;
+    background-image: url(shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+}
+.half_width_last{
+    width: 30%;
+    float: left;
+    margin-top: 0px;
+}
+.lastBanner{
+    margin-top: 200px;
+    
+    width: 906px;
+    height: 225px;
+    margin-left:200px ;
+    background-image: url(shapes/Group_33094_1.png);
+    background-size: 906px 225px;
+}
+#workIn{
+    font-size: 40px;
+    color: white;
+    padding-top: 80px;
+    margin-left: 50px;
+}
+#lets_talk_button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, #FF8367);
+    margin-left: 350px;
+    width: 134px;
+    height: 40px;
+    border-radius: 6px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 15px;
+    color: white;
+    margin-top: 85px;
+}
+.stayCon{
+    text-align: center;
+    color: #696871;
+    margin-top: 80px;
+    font-size: 24px;
+}
+.email{
+    color: #363958;
+    font-size: 42px;
+    text-align: center;
+    margin-top: 30px;
+}
+.icon{
+    float: left;
+    width: 10%;
+    height: 40px;
+    width: 40px;
+    padding-left: 20px;
+}
+#icon{
+    padding-left: 525px;
+}
